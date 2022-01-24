@@ -68,3 +68,10 @@ https://github.com/angular-schule/angular-cli-ghpages
 
 5. Your project should be available at `https://<username>.github.io/<repositoryname>`.  
    Learn more about GitHub pages on the [official website](https://pages.github.com/).
+
+\*\*
+To generate production version of your application:
+
+```sh
+http-server dist/d1
+```
